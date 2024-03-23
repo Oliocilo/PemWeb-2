@@ -208,7 +208,6 @@ if ($_SERVER['REQUEST_METHOD'] === "POST") {
     <th>Merk</th>
     <th>Pemilik</th>
     <th>Status</th>
-    <th>Action</th>
     <th>Nomor Polisi</th>
     </tr>
   </thead>
